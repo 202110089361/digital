@@ -1,0 +1,175 @@
+{
+  "HomePage": {
+    "title": "안녕하세요",
+    "doloffer": "돌로퍼",
+    "home_title": "집",
+    "affiliate": "제휴하다",
+    "After-Sales_title": "애프터 세일즈 지원",
+    "subscription_title": "신청",
+    "integral_title": "완전한",
+    "premiumSubscriptionOffer": "DolOffer에서 더 저렴한 가격으로 공유 프리미엄 구독",
+    "qualityStreaming": "5년간 고품질, 저렴한 스트리밍 제공",
+    "whyUseDolOfferTitle": "왜 점점 더 많은 사람들이",
+    "use_DolOffer": "DolOffer를 사용하세요",
+    "realTimeDelivery_title": "실시간 배달",
+    "realTimeDelivery_description": "결제 후 대기 없이 실시간 배송, 빠른 도착으로 걱정을 날려드립니다.",
+    "quickReset_title": "빠른 재설정",
+    "quickReset_description": "대기 및 수동 작업 없이 구독 페이지에서 패스키 재설정을 클릭하세요.",
+    "sslCertificate_title": "SSL 인증서",
+    "sslCertificate_description": "결제는 SSL 보안 인증서가 있는 보안 환경에서 이루어집니다.",
+    "liveSupport_title": "24/7 라이브 지원",
+    "liveSupport_description": "24시간 연중무휴 온라인 개인 고객 서비스를 제공하여 좋은 경험을 할 수 있도록 도와드립니다.",
+    "suitableSubscriber_title": "적합한 구독자",
+    "suitableSubscriber_description": "더 저렴한 가격으로 프리미엄 구독을 받으세요.",
+    "refundGuarantee_title": "환불 보장",
+    "refundGuarantee_description": "당사는 구매자 보호 기능을 제공하며, 24시간 이내에 환불이 가능합니다.",
+    "reviews_description": "환불 정책",
+    "reviews_title": "긍정적인 리뷰"
+  },
+  "BottomCard": {
+    "name": "라 루 G 베르니에",
+    "location": "네덜란드어",
+    "text": "저는 거의 1년 동안 gamesgo를 사용해 왔으며 Netflix를 3개 구독하고 있습니다. Netflix 계정을 신속하게 개설하는 데 고객 지원이 매우 긍정적일 때마다 GamsGo는 많은 것을 제공하는 매우 좋은 사이트라고 생각합니다.",
+    "name_title": "포터 디온",
+    "location_title": "네덜란드어",
+    "text_title": "저는 거의 1년 동안 gamesgo를 사용해 왔으며 Netflix를 3개 구독하고 있습니다. Netflix 계정을 신속하게 개설하는 데 고객 지원이 매우 긍정적일 때마다 GamsGo는 많은 것을 제공하는 매우 좋은 사이트라고 생각합니다."
+  },
+  "FooterPage": {
+    "about": {
+      "title": "에 대한",
+      "links": {
+        "aboutUs": "우리에 대하여",
+        "contactUs": "문의하기",
+        "helpCenter": "도움말 센터",
+        "affiliateProgram": "제휴 프로그램",
+        "appsForSearchMovies": "영화 검색 앱"
+      }
+    },
+    "legal": {
+      "title": "합법적인",
+      "links": {
+        "doOfferTC": "DoOffer 이용약관",
+        "privacyPolicy": "개인정보 보호정책",
+        "copyright": "저작권",
+        "refundPolicy": "환불 정책",
+        "amlPolicy": "AML 정책"
+      }
+    },
+    "language": "언어",
+    "ownership_disclaimer": "모든 저작권, 상표, 서비스 마크는 해당 소유자의 소유입니다.",
+    "company_info": "저작권 © 2024 GG NETWORK LIMITED 모든 권리 보유.홍콩, 구룡, 나단 로드 655호, 22층 2209호실",
+    "terms_policy": "이용 약관 및 개인정보 보호정책."
+  },
+  "buyModel": {
+    "accountDescription": "한 계정",
+    "purchaseMonth": "구매월",
+    "autoRenewalLabel": "자동 갱신 활성화",
+    "autoRenewalInfo": "자동 갱신. 언제든지 취소 가능. 귀하가 선택한 자동 갱신 기간에 따라 만료일 5일 전에 구독을 갱신합니다. 결제 결과는 귀하의 이메일로 전송됩니다.",
+    "autoRenewalPolicy": "이를 선택하면 GamsGo의 정기 결제 정책에 동의하는 것입니다.",
+    "promoCode": "프로모션 코드나 쿠폰이 있으신가요?"
+  },
+  "OrderModal": {
+    "selectPaymentMethodTitle": "결제방법을 선택하세요",
+    "selectPaymentMethodDescription": "GamsGo는 귀하의 은행 카드 정보를 저장하지 않습니다. 모든 거래는 외부 결제 제공자에 의해 보안, 처리 및 승인됩니다.",
+    "creditDebitCard": "신용 카드 및 직불 카드",
+    "creditDebitCardFee": "(0% 5.00% 수수료)",
+    "paymentOptionsLabel": "결제 옵션",
+    "paymentOptionsLabel_title": "일회성 결제",
+    "subtotalLabel": "소계",
+    "promoCodeLabel": "프로모 코드 & 쿠폰",
+    "paymentFeeLabel": "지불 수수료",
+    "totalLabel": "총",
+    "Cancel_title": "취소"
+  },
+  "submitButton": {
+    "pending": "제출 중...",
+    "default": "결제로 이동"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, de {South Korea} en {English} other {Unknown}}"
+  },
+  "AffiliatePage": {
+    "section": {
+      "titleAffiliateHero": "돈을 벌어보세요!",
+      "subtitleAffiliateHero": "Doloffer 제휴사가 되세요",
+      "countriesSupported": "지원 국가 및 지역",
+      "earnings": "최대까지 적립 가능",
+      "earnings_title": "한 달에",
+      "titleStepsToStart": "제휴사가 되세요",
+      "titleStepsToStart_title": "내 커미션",
+      "stepsTitle": "시작하는 방법",
+      "stepsDesc": "3가지 간단한 단계로 수익을 창출하세요",
+      "whyTitle": "가입하기",
+      "whyTitle_descrition": "제휴사 네트워크에 가입하는 데는 1분만 걸립니다.",
+      "btnService": "링크를 공유하세요",
+      "btnService_description": "저희는 귀하에게 고유한 제휴 링크/프로모션 코드를 제공합니다. Doloffer를 홍보하기 위해 공유하세요!",
+      "EarnCommission": "수수료 획득",
+      "EarnCommission_description": "귀하가 추천한 새로운 고객이 구매에 성공할 때마다 수수료를 받으세요!",
+      "Become_an_affiliate": "제휴사가 되세요"
+    },
+    "Advertisement": {
+      "whyChooseUsTitle": "왜 우리를 선택해야 합니까 - 우리의 강점",
+      "serviceButton": "우리의 서비스",
+      "sincerityButton": "우리의 진심",
+      "marketButton": "우리의 시장",
+      "globalAudienceTitle": "글로벌 청중",
+      "globalAudienceDesc_title": "우리는 다음 지역의 사용자에게 서비스를 제공합니다",
+      "globalAudienceDesc_description": "여러 국가를 선택하여 대상 고객에게 완벽한 매칭을 보장합니다.",
+      "highSatisfactionTitle": "높은 만족도",
+      "highSatisfactionDesc_title": "2020년 출시 이후로 우리는 다음을 유지해 왔습니다.",
+      "highSatisfactionDesc_description": "Trustpilot에서 평점이 높습니다. 훌륭한 플랫폼은 더 많은 만족스러운 팬을 의미합니다.",
+      "worryFreeServiceTitle": "걱정없는 서비스",
+      "WeOffer_title": "우리는 제공합니다",
+      "WeOffer_description": "고객 서비스, 주소 지정",
+      "worryFreeServiceDesc": "1분 이내에 질의를 보내주세요. 소중한 팬 여러분을 진심으로 대할 것입니다."
+    },
+    "Card": {
+      "getStartedTitle": "시작하는 방법",
+      "getStartedDesc": "3가지 간단한 단계로 수익을 창출하세요",
+      "highCommissionsTitle": "대규모 잠재 시장을 가진 높은 수수료",
+      "serviceDesc": "저희는 24시간 연중무휴 고객 서비스를 제공하며, 1분 이내에 95%의 문의에 답변합니다. 소중한 팬분들은 진심 어린 배려로 대우받을 것입니다.",
+      "becomeAffiliateButton": "제휴사가 되세요"
+    },
+    "DiscussionArea": {
+      "text": "와 함께",
+      "title": "우리와 함께 성장해온 파트너들",
+      "jinBlogName": "JinBlog진블로그",
+      "jinBlogName_text": "[유튜브 - IT채널]",
+      "jinBlogName_description": "GamsGo와의 협업을 통해 좋은 경험과 수익을 얻을 수 있었습니다. 특히 다른 서비스에 비해 사용자 수가 많고 신뢰할 수 있는 플랫폼을 갖추고 있으며 다양한 통계 및 제휴 프로그램이 있어 GamsGo는 편리한 도움을 받았습니다.",
+      "jinBlogName_title": "원래의 코멘트",
+      "PierpaoloMantello": "피에르파올로 만텔로(IL MASTRO)",
+      "PierpaoloMantello_description": "저는 오랫동안 GamsGo와 협력해 왔고, 매우 신뢰할 수 있는 사이트이며, 저는 개인적으로 경험했고 많은 혜택을 받았습니다. 더 많은 사람들이 제휴 프로그램을 신뢰하고 혜택을 받기를 바랍니다.",
+      "MysteryInfluencer": "미스터리 인플루언서",
+      "MysteryInfluencer_description": "저는 오랫동안 GamsGo와 협력해 왔고, 매우 신뢰할 수 있는 사이트이며, 저는 개인적으로 경험했고 많은 혜택을 받았습니다. 더 많은 사람들이 제휴 프로그램을 신뢰하고 혜택을 받기를 바랍니다.",
+      "JinBlog": "GamsGo와의 협업을 통해 좋은 경험과 수익을 얻을 수 있었습니다. 특히 다른 서비스에 비해 많은 사용자와 신뢰할 수 있는 플랫폼을 보유하고 있으며 다양한 통계 및 제휴 프로그램을 갖추고 있어 GamsGo는",
+      "headerTitle": "당신들은 완벽한 상대인가요?",
+      "headerDescription": "다음과 같은 특별한 경험이 있다면 우리와 함께 하세요:",
+      "chatGroupsTitle": "채팅 그룹",
+      "chatGroupsDescription": "GamsGo의 독점 링크나 프로모션 코드를 소셜 그룹에서 공유하세요",
+      "forumsTitle": "포럼 및 온라인 커뮤니티",
+      "forumsDescription": "지역 포럼/com에서 귀하의 경험을 공유하세요...",
+      "contentSitesTitle": "콘텐츠/블로그 사이트",
+      "contentSitesDescription": "GamsGo에서 판매되는 구독 상품을 홍보하세요...",
+      "networksTitle": "네트워크 및 기관",
+      "networksDescription": "다양한 사이트 및 채널과 협력하여 GamsGo에서 판매되는 구독을 홍보합니다.",
+      "headline": "귀하의 성공이 저희의 최우선 순위입니다!",
+      "subheadline": "의 일원이 되십시오",
+      "subheadline_description": "GamsGo 제휴 네트워크",
+      "buttonText": "휴사가 되세요",
+      "footer_title": "자주 묻는 질문",
+      "more": "더",
+      "commission_question": "판매 시 어떤 수수료를 받게 되나요?",
+      "payment_question": "언제, 어떻게 급여를 받나요?",
+      "referral_question": "잠재 고객이 제 제휴 링크를 통해 귀하 사이트로 이동한 후 나중에 귀하 사이트에서 직접 구매하는 경우에는 어떻게 되나요?",
+      "contact_info": "잠재 고객이 제 제휴 링크를 통해 귀하 사이트로 이동한 후 나중에 귀하 사이트에서 직접 구매하는 경우에는 어떻게 되나요?",
+      "contact_description": "최소 지급 한도는 얼마입니까?",
+      "referralCookies": "고객이 귀하의 추천 링크를 통해 GamsGo를 방문하고 30일 이내에 등록하는 한, 귀하를 추천인과 연결하기 위해 드롭된 쿠키를 사용합니다.",
+      "referralStorage": "귀하의 추천과 연관이 있습니다.",
+      "referralPayments": "동시에, 우리는 귀하와 귀하의 추천인 간의 관계를 영구적으로 저장하기 위해 데이터베이스를 사용하여 관계가 손실되지 않도록 보장합니다. 즉,",
+      "referralCommission": "추천인이 성공적인 결제를 하는 경우, 첫 구매이든, 새 주문이든, 6개월 후에 갱신하든, 여전히 수수료를 받게 됩니다.",
+      "questionsTitle": "아직 궁금한 점이 있으신가요?",
+      "contactInfo": "Parternership@gamsgo.com으로 문의하세요."
+    }
+  }
+}

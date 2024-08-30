@@ -1,0 +1,175 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "doloffer": "DOLOFFER",
+    "home_title": "Home",
+    "affiliate": "Affiliate",
+    "After-Sales_title": "After-Sales Support",
+    "subscription_title": "Subscription",
+    "integral_title": "integral",
+    "premiumSubscriptionOffer": "Shared premium subscription with lower price on DolOffer",
+    "qualityStreaming": "Providing high-quality, affordable streaming for 5 years",
+    "whyUseDolOfferTitle": "Why more and more people",
+    "use_DolOffer": "use DolOffer",
+    "realTimeDelivery_title": "REAL-TIME DELIVERY",
+    "realTimeDelivery_description": "Real-time delivery after payment without waiting, fast arrival to dispel your worries",
+    "quickReset_title": "QUICK RESET",
+    "quickReset_description": "Click reset passkey on the subscription page without waiting and manual operation",
+    "sslCertificate_title": "SSL CERTIFICATE",
+    "sslCertificate_description": "Payments take place in a secure environment with an SSL security certificate",
+    "liveSupport_title": "24/7 LIVE SUPPORT",
+    "liveSupport_description": "Provides 24/7 online private customer service, help you have a good experience",
+    "suitableSubscriber_title": "SUITABLE SUBSCRIBER",
+    "suitableSubscriber_description": "Get premium subscription at lower price.",
+    "refundGuarantee_title": "REFUND GUARANTEE",
+    "refundGuarantee_description": "We offer buyer protection, with refunds available within 24 hours.",
+    "reviews_title": "Positive Reviews",
+    "reviews_description": "Refund Policy"
+  },
+  "BottomCard": {
+    "name": "La Roux G Bernier",
+    "location": "NL",
+    "text": "J’utilise gamesgo depuis près d’un an maintenant, j’ai 3 abonnements Netflix dessus, chaque fois que le support client a été très positif pour m’aider à m’ouvrir rapidement un compte Netflix, je pense que GamsGo est un très bon site avec beaucoup à offrir.",
+    "name_title": "Porter Dionne",
+    "location_title": "NL",
+    "text_title": "J’ai expérimenté le service d’abonnement sur le site GamsGo, ils facturent, mais leurs frais sont bas et raisonnables, le support du service client en ligne a répondu à mes questions et a pris le temps de m’expliquer, leur support m’a beaucoup aidé, je leur fais confiance."
+  },
+  "FooterPage": {
+    "about": {
+      "title": "ABOUT",
+      "links": {
+        "aboutUs": "About Us",
+        "contactUs": "Contact Us",
+        "helpCenter": "Help Center",
+        "affiliateProgram": "Affiliate Program",
+        "appsForSearchMovies": "Apps for search movies"
+      }
+    },
+    "legal": {
+      "title": "LEGAL",
+      "links": {
+        "doOfferTC": "DoOffer T&C",
+        "privacyPolicy": "Privacy Policy",
+        "copyright": "Copyright",
+        "refundPolicy": "Refund Policy",
+        "amlPolicy": "AML Policy"
+      }
+    },
+    "language": "LANGUAGE",
+    "ownership_disclaimer": "All copyrights, trade marks, service marks belong to the corresponding owners.",
+    "company_info": "Copyright © 2024 GG NETWORK LIMITED All Rights Reserved.ROOM 2209, 22/F, 655 NATHAN ROAD, KOWLOON, HONG KONG",
+    "terms_policy": "TERMS AND CONDITION and PRIVACY POLICY."
+  },
+  "buyModel": {
+    "accountDescription": "One account",
+    "purchaseMonth": "Purchase Month",
+    "autoRenewalLabel": "Activate Auto-renewal",
+    "autoRenewalInfo": "Auto renewing. Cancel anytime. We will renew your subscription 5 days before it expires,based on the auto-renewal dura-tion you have chosen. The payment result will be sent to your email.",
+    "autoRenewalPolicy": "By selecting this, you agree to GamsGo's Recurring Payments Policy",
+    "promoCode": " Have a Promo Code or Coupon?"
+  },
+  "OrderModal": {
+    "selectPaymentMethodTitle": "Select a Payment Method",
+    "selectPaymentMethodDescription": "GamsGo will not store your bank card information. All transactions are secured, processed and authorized by external payment providers.",
+    "creditDebitCard": "Credit & Debit Card",
+    "creditDebitCardFee": "(0% 5.00% Fee)",
+    "paymentOptionsLabel": "Payment Options",
+    "paymentOptionsLabel_title": "One-time payment",
+    "subtotalLabel": "Subtotal",
+    "promoCodeLabel": "Promo code & Coupon",
+    "paymentFeeLabel": "Payment Fee",
+    "totalLabel": "Total",
+    "Cancel_title": "Cancel"
+  },
+  "submitButton": {
+    "pending": "Submitting...",
+    "default": "Go to payment"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, de {South Korea} en {English} other {Unknown}}"
+  },
+  "AffiliatePage": {
+    "section": {
+      "titleAffiliateHero": "MAKE MONEY!",
+      "subtitleAffiliateHero": "Be a Doloffer Affiliate",
+      "countriesSupported": "supported countries & regions",
+      "earnings": "Earn up to",
+      "earnings_title": "per month",
+      "titleStepsToStart": "Become an affiliate",
+      "titleStepsToStart_title": "My commission",
+      "stepsTitle": "How to get started",
+      "stepsDesc": "Start your earning in 3 simple steps",
+      "whyTitle": "Sign up",
+      "whyTitle_descrition": "It takes just 1 minute to become a part of our affiliate network.",
+      "btnService": "Share your link",
+      "btnService_description": "We'll provide you with a unique affiliate link / promote code. Share it to promote Doloffer!",
+      "EarnCommission": "Earn commission",
+      "EarnCommission_description": "Get commission for every new customer you refer makes a successful purchase!",
+      "Become_an_affiliate": "Become an affiliate"
+    },
+    "Advertisement": {
+      "whyChooseUsTitle": "Why Choose Us - Our Strengths",
+      "serviceButton": "Our Service",
+      "sincerityButton": "Our Sincerity",
+      "marketButton": "Our Market",
+      "globalAudienceTitle": "Global Audience",
+      "globalAudienceDesc_title": "We serve users from over",
+      "globalAudienceDesc_description": "countries, ensuring a perfect match for your audience.",
+      "highSatisfactionTitle": "High Satisfaction",
+      "highSatisfactionDesc_title": "Since our launch in 2020, we have maintained a",
+      "highSatisfactionDesc_description": "rating on Trustpilot. A great platform means more satisfied fans.",
+      "worryFreeServiceTitle": "Worry-Free Service",
+      "WeOffer_title": "We offer",
+      "WeOffer_description": "customer service, addressing",
+      "worryFreeServiceDesc": "of queries within a minute. Your cherished fans will be treated with heartfelt care."
+    },
+    "Card": {
+      "getStartedTitle": "How to get started",
+      "getStartedDesc": "Start your earning in 3 simple steps",
+      "highCommissionsTitle": "High Commissions with a Large  Potential Market",
+      "serviceDesc": "We offer 24/7 customer service, addressing 95% of  queries within a minute. Your cherished fans will be  treated with heartfelt care.",
+      "becomeAffiliateButton": "Become an affiliate"
+    },
+    "DiscussionArea": {
+      "text": "With",
+      "title": "Partners who have been growing with us",
+      "jinBlogName": "JinBlog진블로그",
+      "jinBlogName_text": "[Youtube - IT Channel]",
+      "jinBlogName_description": "Through collaboration with GamsGo, we were able to gain good experience and profits. In particular, it has a  large number of users and a reliable platform compared to other services, and it has various statistical and  Affiliate Program, so GamsGo received convenient help.",
+      "jinBlogName_title": "Original Comment",
+      "PierpaoloMantello": "Pierpaolo Mantello (IL MASTRO)",
+      "PierpaoloMantello_description": "I have cooperated with GamsGo for a long time, it is a very reliable site, I have personally experienced it and benefited a lot from it. I wish more people could trust, benefit from the Affiliate Program.",
+      "MysteryInfluencer": "Mystery Influencer",
+      "MysteryInfluencer_description": "I have cooperated with GamsGo for a long time, it is a very reliable site, I have personally experienced it and benefited a lot from it. I wish more people could trust, benefit from the Affiliate Program.",
+      "JinBlog": "Through collaboration with GamsGo, we were able to gain good experie -nce and profits. In particular, it has a large number of users and a reliab -le platform compared to other services, and it has various statistical and Affiliate Program, so GamsGo rece",
+      "headerTitle": "Are You a Perfect Match?",
+      "headerDescription": "Come join us if you possess any of these special experience:",
+      "chatGroupsTitle": "Chat groups",
+      "chatGroupsDescription": "Share exclusive links or promo codes of GamsGo in social groups",
+      "forumsTitle": "Forums and Online Communities",
+      "forumsDescription": "Share your experience in local forums/com...",
+      "contentSitesTitle": "Content/blog sites",
+      "contentSitesDescription": "Promote subscriptions sold on GamsGo in ...",
+      "networksTitle": "Networks and Agencies",
+      "networksDescription": "Promote subscriptions sold on GamsGo through cooperating with multiple sites and channels",
+      "headline": "Your success is our priority!",
+      "subheadline": "Become a part of",
+      "subheadline_description": "GamsGo Affliate Network",
+      "buttonText": "Become an affiliate",
+      "footer_title": "Frequently Asked Questions",
+      "more": "more",
+      "commission_question": "What commissions will l receive on sales?",
+      "payment_question": "When & how do l get paid?",
+      "referral_question": "What happens if a potential customer goes to your site through my affliate link and then purchases later directly from your site?",
+      "contact_info": " What happens if a potential customer goes to your site through my affiliate link and then purchases later directly from your site?",
+      "contact_description": "What is the minimum payment threshold?",
+      "referralCookies": "We use dropped cookies to bind you with your referral, so as long as a customer visits GamsGo through your referral link and registers within 30 days, you  will",
+      "referralStorage": "be associated with your referral.",
+      "referralPayments": "At the same time, we use a database to permanently store the relationship between you and your referral, ensuring that it will not be lost. This means that even",
+      "referralCommission": "if your bound referral makes a successful payment, be it a first-time purchase, a new order, or a renewal six months later, you will still receive a commission.",
+      "questionsTitle": "STILL HAVE QUESTIONS?",
+      "contactInfo": "Contact us at Parternership@gamsgo.com"
+    }
+  }
+}
